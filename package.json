@@ -1,0 +1,15 @@
+{
+  "name": "prueba-webcomponents",
+  "version": "1.0.0",
+  "description": "A web components example specifications w3c",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "iniciar": "http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
